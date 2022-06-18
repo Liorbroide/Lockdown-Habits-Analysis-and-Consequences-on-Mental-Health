@@ -1,5 +1,5 @@
 # Lockdown-Habits-Analysis-and-Consequences-on-Mental-Health
-Project is based on a Kaggle dataset: "Covid-19 Survey Student Responses.
+Project is based on a Kaggle dataset: "Covid-19 Survey Student Responses."
 
 Data Analysis steps:
 1. We performed different EDA techniques in order to get a better understanding of feature correlation to our target column, which was "Health issues during lockdown" (Did the subject develop any mental health issues.
